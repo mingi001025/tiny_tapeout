@@ -9,7 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This convert your design into the ASIC files required for chip manufacturing and also view your files with the 3D viewer.
+
 
 ## How to test
 
