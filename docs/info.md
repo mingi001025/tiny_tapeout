@@ -18,4 +18,4 @@ This convert your design into the ASIC files required for chip manufacturing and
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+PMOD, LED display
