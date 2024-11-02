@@ -14,7 +14,7 @@ This convert your design into the ASIC files required for chip manufacturing and
 
 ## How to test
 
-Explain how to use your project
+This convert your design into the ASIC files required for chip manufacturing and also view your files with the 3D viewer.
 
 ## External hardware
 
